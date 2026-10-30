@@ -1,0 +1,22 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+# Local credentials and editor/OS files
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Temporary files and distribution archives
+*.log
+*.tmp
+*.zip
+# Required data, saved models and results are intentionally tracked.

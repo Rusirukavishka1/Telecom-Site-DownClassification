@@ -1,0 +1,11 @@
+Region,Depot,Network_type,Month,equipment_vendor,Day,techs,repair_time
+western,Malabe,IP,january,Huawei,1,312,4.311390347956531
+southern,Hambantota,Radio Access Network,january,Ericson,1,223,3.815089086500685
+western,Hanwella,IP,january,Huawei,1,286,1.030952444518233
+western,Mahabage,microwave,january,Huawei,1,302,7.437848955252647
+western,Kesbewa,IP,january,Cisco,1,297,3.947750604138081
+central,Ruwanwella,IP,january,Huawei,1,88,3.898207508989976
+western,Malabe,microwave,january,Huawei,1,314,2.227347790784588
+eastern,Batticaloa,IP,january,Ericson,1,106,3.084466632631256
+western,Dehiwala,IP,january,Huawei,1,275,4.30039901224364
+southern,Kalutara,IP,january,Huawei,1,240,3.741985250096917

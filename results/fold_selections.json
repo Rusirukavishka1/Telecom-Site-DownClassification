@@ -1,0 +1,254 @@
+[
+  {
+    "fold": 1,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 1.36220842696654e-227,
+      "Depot": 9.961999779288719e-243,
+      "Network_type": 0.700197906815853,
+      "Month": 3.695752508551651e-83,
+      "equipment_vendor": 0.6097009493902883,
+      "Day": 0.003663511203016928,
+      "techs": 4.665209093828611e-162,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 2,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 5.7515393325251716e-235,
+      "Depot": 1.3747913064704244e-247,
+      "Network_type": 0.8870779186072304,
+      "Month": 9.146154242061429e-75,
+      "equipment_vendor": 0.4816773059172085,
+      "Day": 0.011475623006344884,
+      "techs": 1.3215773531034863e-166,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 3,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 2.5003582710549936e-232,
+      "Depot": 6.97201480713569e-250,
+      "Network_type": 0.8998886111144075,
+      "Month": 9.506129581929656e-79,
+      "equipment_vendor": 0.744190175779706,
+      "Day": 0.026720863206636074,
+      "techs": 1.8033228462357005e-165,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 4,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 1.1200207997203276e-225,
+      "Depot": 1.3086550233870523e-240,
+      "Network_type": 0.8619914171474875,
+      "Month": 1.2585383588193225e-81,
+      "equipment_vendor": 0.7700662218260687,
+      "Day": 0.027382725113989866,
+      "techs": 1.1052407912870481e-160,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 5,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 7.4241367330566705e-227,
+      "Depot": 1.1484073770004124e-241,
+      "Network_type": 0.878646832656125,
+      "Month": 2.249471352159554e-80,
+      "equipment_vendor": 0.853488120031598,
+      "Day": 0.00994437286642052,
+      "techs": 1.196392891664065e-156,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 6,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 1.1805912497306076e-230,
+      "Depot": 6.514758199971256e-249,
+      "Network_type": 0.8538308631154767,
+      "Month": 2.571590821425686e-77,
+      "equipment_vendor": 0.7211046132566945,
+      "Day": 0.0007517490479763972,
+      "techs": 3.8566304133970935e-168,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 7,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 3.0942904757154884e-228,
+      "Depot": 8.107314282558691e-245,
+      "Network_type": 0.9753956861337635,
+      "Month": 9.258505786881945e-77,
+      "equipment_vendor": 0.6552810911951485,
+      "Day": 0.0021744339581030686,
+      "techs": 8.624993548230329e-164,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 8,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 6.160311641754008e-224,
+      "Depot": 2.8005449236461165e-238,
+      "Network_type": 0.9265016602733224,
+      "Month": 1.6593012599683243e-79,
+      "equipment_vendor": 0.5595790613687877,
+      "Day": 0.017189016799661085,
+      "techs": 2.5697735142441593e-159,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 9,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 7.006349525436117e-231,
+      "Depot": 7.916567835216189e-244,
+      "Network_type": 0.9567425512573928,
+      "Month": 2.0147705383692533e-80,
+      "equipment_vendor": 0.7709177000082241,
+      "Day": 0.018413850629846594,
+      "techs": 7.284829984186089e-162,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 10,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 1.0286829269853153e-229,
+      "Depot": 2.348202404382553e-248,
+      "Network_type": 0.8847158981898483,
+      "Month": 1.0848825354940117e-80,
+      "equipment_vendor": 0.7594587086571303,
+      "Day": 0.010897603426582416,
+      "techs": 1.6022631363513988e-166,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 11,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 1.6936444692814036e-226,
+      "Depot": 1.7718325285099215e-239,
+      "Network_type": 0.9678766704493031,
+      "Month": 6.3604711285938564e-77,
+      "equipment_vendor": 0.5281451203485673,
+      "Day": 0.005512693825312024,
+      "techs": 7.576015787762214e-159,
+      "repair_time": 0.0
+    }
+  },
+  {
+    "fold": 12,
+    "selected": [
+      "Region",
+      "Depot",
+      "Month",
+      "Day",
+      "techs",
+      "repair_time"
+    ],
+    "p_values": {
+      "Region": 5.45612049134915e-228,
+      "Depot": 7.98282137992393e-245,
+      "Network_type": 0.9644251263268893,
+      "Month": 3.676365388092036e-80,
+      "equipment_vendor": 0.4444554004012303,
+      "Day": 0.002428818385507345,
+      "techs": 1.3099556699336093e-164,
+      "repair_time": 0.0
+    }
+  }
+]
